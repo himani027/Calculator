@@ -1,1 +1,1 @@
-# simplecalci
+# Calculator
